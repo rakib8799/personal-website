@@ -87,12 +87,11 @@ img {
   float: left;
   width: 30.5%;
   margin-left: 1.7rem;
-  box-shadow: 10px 10px 40px grey;
   transition: all .5s linear;
 }
 
 .one-third-width:hover {
-  box-shadow: 0 0 0;
+  box-shadow: 10px 10px 40px rgba(0, 0, 0, .7);
 }
 
 .container {
