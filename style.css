@@ -198,4 +198,6 @@ img {
 #footer {
   height: 12vh;
   margin-top: -2rem;
+  background: #333;
+  color: #fff;
 }
