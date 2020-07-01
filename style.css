@@ -85,8 +85,8 @@ img {
 
 .one-third-width {
   float: left;
-  width: 33%;
-  padding-left: 1.5rem;
+  width: 30.5%;
+  margin-left: 1.7rem;
   box-shadow: 10px 10px 40px grey;
   transition: all .5s linear;
 }
@@ -96,8 +96,7 @@ img {
 }
 
 .container {
-  margin: 0 6rem;
-  padding-top: 6rem;
+  padding: 6rem 4rem;
 }
 
 #work {
@@ -196,7 +195,8 @@ img {
 }
 
 #footer {
-  height: 12vh;
+  height: 10vh;
   margin-top: -2rem;
-
+  background: #333;
+  color: #fff;
 }
