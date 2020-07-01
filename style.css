@@ -82,16 +82,15 @@ img {
   margin-top: 10rem;
 }
 
-
 .one-third-width {
   float: left;
   width: 30.5%;
   margin-left: 1.7rem;
-  transition: all .5s linear;
+  transition: all 0.5s linear;
 }
 
 .one-third-width:hover {
-  box-shadow: 10px 10px 40px rgba(0, 0, 0, .7);
+  box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.7);
 }
 
 .container {
@@ -124,13 +123,13 @@ img {
 }
 
 .hw-5 {
-  border-image: linear-gradient(#FF9C77, #FF6A4D) 1;
+  border-image: linear-gradient(#ff9c77, #ff6a4d) 1;
   background: #fff;
 }
 
 .hw-6 {
   margin-left: 5%;
-  border-image: linear-gradient(#0009FF, #00E9FF) 1;
+  border-image: linear-gradient(#0009ff, #00e9ff) 1;
 }
 
 .hw-5,
@@ -165,7 +164,7 @@ img {
 
 #client {
   height: 100vh;
-  background: url('./images/footer-bg.png')left/cover;
+  background: url('./images/footer-bg.png') left/cover;
   clear: both;
 }
 
@@ -180,7 +179,7 @@ img {
 }
 
 .leave {
-  font-size: .9rem;
+  font-size: 0.9rem;
   font-weight: 300;
   display: block;
   line-height: 3.5rem;
